@@ -12,3 +12,4 @@ A collection of projects I created through the Codecademy course, [**Create a Fr
 
 # Project Breakdown
 1. **Magic Eight Ball** `/magicEightBall` - User is able to enter their name and a question to ask the Magic Eight Ball. Using two methods from the Javascript Math Library, a random number is generated and a switch block is used to generate a prediction from the Magic Eight Ball.
+2. **Race Day** `/raceDay` - User is able to enter their age and a boolean value based upon their early registration. Using a method from the JavaScript Math Library, a random race number is generated for the runner, and control flow statements generate the instructions for the runner based upon their conditions.
